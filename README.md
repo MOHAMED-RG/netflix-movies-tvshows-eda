@@ -16,6 +16,8 @@ The project focuses on:
 ---
 
 ## Dataset Information
+## Dataset
+[Netflix Movies and TV Shows](https://www.kaggle.com/datasets/anandshaw2001/netflix-movies-and-tv-shows)
 
 - Rows: 8807
 - Columns: 13
