@@ -7,7 +7,7 @@ Netflix Movies and TV Shows Exploratory Data Analysis Cleaning and Visualization
 This project explores the Netflix Movies and TV Shows dataset using Python and Exploratory Data Analysis (EDA) techniques.
 
 The project focuses on:
-- Data Cleaning
+- Data Cleaning 
 - Handling Missing Values
 - Feature Engineering
 - Data Visualization
