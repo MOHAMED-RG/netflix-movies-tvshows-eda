@@ -11,7 +11,7 @@ The project focuses on:
 - Handling Missing Values
 - Feature Engineering
 - Data Visualization
-- Extracting Insights from the dataset
+- Extracting Insights from the dataset 
 
 ---
 
